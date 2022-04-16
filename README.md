@@ -23,3 +23,4 @@ There are seven scripts, structured as follows:
 * Stalemate
 * Pawn promotion to other pieces than queen (knight, bishop, rook)
 * Customise game looks: colours, whether possible moves are visible or not
+* Playing against an AI
