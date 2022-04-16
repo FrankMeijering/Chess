@@ -11,8 +11,15 @@ There are seven scripts, structured as follows:
 * "Endscreen.py" shows the winner after a game
 * "Main_menu.py" defines the function for the opening menu
 
+## Incorporated
+* Prevention of illegal moves (except king sacrifice detection)
+* Visualisation of allowed moves, including visualisation for possible captures
+* Castling, including all its rules
+* Pawn promotion to queen
+
 ## Not Incorporated (Yet)
 * Prevent king sacrifice
 * En passant
 * Stalemate
+* Pawn promotion to other pieces than queen (knight, bishop, rook)
 * Customise game looks: colours, whether possible moves are visible or not
